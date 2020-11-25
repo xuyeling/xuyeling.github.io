@@ -1,0 +1,76 @@
+# Site
+name: '拾麦数学 SMSX'
+description: '拾麦数学简称SMSX，是一个关于数学的博客网站'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+disqus: 'demowebsite'
+email: 'wowthemesnet@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    pcm:
+      truename:       濮晨铭
+      name:           pcm
+      site:           
+      avatar:         assets/images/avatar1.jpg
+      bio:            "大家好，我是濮晨铭！"
+      email:          wowthemesnet@gmail.com
+      twitter:        
+
+    xj:
+      truename:       夏珺
+      name:           xj          
+      site:           
+      avatar:         assets/images/avatar2.jpg
+      bio:            "大家好，我是夏珺！"
+      email:          
+      twitter:        
+
+    yw:
+      truename:       杨威
+      name:           yw       
+      site:           
+      avatar:         assets/images/avatar3.jpg
+      bio:            "大家好，我是杨威"
+      email:          
+      twitter:        
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: pcm
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
