@@ -7,4 +7,6 @@ image: assets/images/competitionquestionshare.png
 tags: [ 竞赛信息 ]
 ---
 
+#### 数学竞赛试题（4）
+
 <img src="../assets/images/competitionquestion4.png" alt="">

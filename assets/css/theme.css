@@ -663,8 +663,12 @@ article {
     line-height: 1.15;
     color: #222222;
 }
-article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
+article p,article pre,article figure,article blockquote,article iframed,article embed {
 	margin-bottom:2rem;
+}
+article img{
+	display: block;
+	margin: 0 auto;
 }
 article blockquote {
 	padding-left:40px;
@@ -682,17 +686,22 @@ article blockquote:before {
 	float:left;
 	line-height:1;
 }
-article:first-letter {
+/* article:first-letter {
 	float:left;
-	font-size:5em;
+	font-size:2em;
 	line-height:1;
 	margin:0 .2em 0 0;
 	vertical-align:top;
-}
-article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
+} */
+article h1,article h2,article h3,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
 	margin-bottom:2rem;
 	margin-top:2rem;
 	font-weight:600;
+}
+article h4{
+	display: block;
+	text-align: center;
+	line-height: 2;
 }
 .alertbar {
 	box-shadow:0 -3px 10px 0 rgba(0,0,0,.0785);
