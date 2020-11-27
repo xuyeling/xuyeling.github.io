@@ -9,6 +9,6 @@ tags: [ 竞赛信息 ]
 
 #### 数学竞赛试题（10）
 
-<img src="../assets/images/competitionquestion10_1.png" alt="" style="height:100%">
+<img src="../assets/images/competitionquestion10_1.PNG" alt="" style="height:100%">
 
 <img src="../assets/images/competitionquestion10_2.png" alt="" style="height:100%">
