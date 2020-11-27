@@ -9,6 +9,8 @@ tags: [ 竞赛信息 ]
 
 #### 数学竞赛试题（8）
 
+lalalslsllalallaallalalallalalaallallal
+
 <img src="../assets/images/competitionquestion8_1.png" alt="">
 
 <img src="../assets/images/competitionquestion8_2.png" alt="">
