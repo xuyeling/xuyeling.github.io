@@ -9,5 +9,5 @@ tags: [ 竞赛信息 ]
 
 #### 数学竞赛试题（9）
 
-<img src="../assets/images/competitionquestion9.png" alt="">
+<img src="../assets/images/competitionquestion9.PNG" alt="">
 

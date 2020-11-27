@@ -9,4 +9,4 @@ tags: [ 竞赛信息 ]
 
 #### 数学竞赛试题（5）
 
-<img src="../assets/images/competitionquestion5.png" alt="">
+<img src="../assets/images/competitionquestion5.PNG" alt="">

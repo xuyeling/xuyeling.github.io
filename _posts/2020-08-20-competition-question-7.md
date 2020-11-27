@@ -9,6 +9,6 @@ tags: [ 竞赛信息 ]
 
 #### 数学竞赛试题（7）
 
-<img src="../assets/images/competitionquestion7_1.png" alt="">
+<img src="../assets/images/competitionquestion7_1.PNG" alt="">
 
-<img src="../assets/images/competitionquestion7_2.png" alt="">
+<img src="../assets/images/competitionquestion7_2.PNG" alt="">
